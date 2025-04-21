@@ -1,13 +1,14 @@
 ---
 layout: page
-title: submenus
+title: policy
 nav: true
-nav_order: 8
+nav_order: 3
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
-  - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Congressional testimony
+    permalink: /congressional_testimony/
+  - title: reports
+    permalink: /reports/
+  - title: public comments
+    permalink: /public_comments/
 ---
