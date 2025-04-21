@@ -29,7 +29,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am a health economist researching access to medicines at Médecins Sans Frontières and the Yale Collaboration for Regulatory Rigor, Integrity, and Transparency. My research crosses economics, political science, and law to better understand pharmaceutical markets and their relationship to public health.
+Hello! I am a health economist researching access to medicines at Médecins Sans Frontières (MSF) and the Yale Collaboration for Regulatory Rigor, Integrity, and Transparency (CRRIT). My research crosses economics, political science, and law to better understand pharmaceutical markets and their relationship to public health.
 
 I hold a PhD in Population Health Science (Health Systems) from Harvard University (2023) and was a Postdoctoral Fellow at Yale University (2023–2025).  My professional experience spans a range of global health institutions, including the World Health Organization (WHO), the Global Fund to Fight AIDS, Tuberculosis, and Malaria (GFATM), the World Bank, the Clinton Health Access Initiative (CHAI), the Ada Lovelace Institute, and the Addressing the Challenge and Constraints of Insulin Sources and Supply (ACCISS) study. My policy work, including Congressional testimony and public comments, is linked above.
 
