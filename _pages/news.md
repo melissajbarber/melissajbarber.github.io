@@ -88,7 +88,7 @@ Nov 5: [How a Rs 72 lakh drug for a rare genetic disease could cost just Rs 3,00
 
 Oct 28: [Rs 72 lakh/year rare-disease drug can be made for Rs 3,000/year, High Court told](https://timesofindia.indiatimes.com/india/rs-72-lakh/year-rare-disease-drug-can-be-made-for-rs-3000/year-hc-told/articleshow/114666406.cms). Times of India.
 
-Oct 28: (Could a Rs 72 lakh drug cost just Rs 3,000? A 24-year-old's courtroom revelation.)[https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/could-a-rs-72-lakh-drug-cost-just-rs-3000-a-24-year-olds-courtroom-revelation/articleshow/114679955.cms]. Economic Times.
+Oct 28: [Could a Rs 72 lakh drug cost just Rs 3,000? A 24-year-old's courtroom revelation.](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/could-a-rs-72-lakh-drug-cost-just-rs-3000-a-24-year-olds-courtroom-revelation/articleshow/114679955.cms]=). Economic Times.
 
 Oct 7: [Gilead Agrees to Allow Generic Version of Groundbreaking H.I.V. Shot in Poor Countries](https://www.nytimes.com/2024/10/02/health/lenacapavir-hiv-shot-prep.html). New York Times.
 
@@ -142,7 +142,7 @@ Mar 28: [Bernie Sanders wants to make Ozempic cheaper](https://www.businessinsid
 
 Mar 28: [Bernie Sanders implores Novo to cut list prices of Ozempic, Wegovy](https://endpts.com/bernie-sanders-implores-novo-to-cut-list-prices-of-ozempic-wegovy). Endpoints News.
 
-Mar 28: [Costly Ozempic jab, which costs up to \$1,300, can be made for just \$5, study claims](https://nypost.com/2024/03/28/lifestyle/ozempic-which-costs-up-to-1300-can-be-made-for-5-study). New York Post.
+Mar 28: [Costly Ozempic jab, which costs up to &#36;1,300, can be made for just &#36;5, study claims](https://nypost.com/2024/03/28/lifestyle/ozempic-which-costs-up-to-1300-can-be-made-for-5-study). New York Post.
 
 Mar 28: [High prices on GLP-1 meds, insulin pens raise barriers to access in lower-income countries: MSF](https://www.fiercepharma.com/pharma/high-markups-glp-1s-insulin-pens-present-barriers-access-lower-income-countries-report). Fierce Pharma.
 
