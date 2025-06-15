@@ -124,7 +124,7 @@ Apr 1: [MSF study reveals global double standard in diabetes care](https://www.d
 
 Mar 29: [Research flags excessive 'profiteering' on diabetes drugs by sections of pharmaceutical industry](https://www.telegraphindia.com/health/research-flags-excessive-profiteering-on-diabetes-drugs-by-sections-of-pharmaceutical-industry/cid/2009774). The Telegraph India.
 
-Mar 29: [Weight-loss drugs cost \$1,000 a month but less than \$25 to make. Why do we pay so much?](https://eu.usatoday.com/story/news/health/2024/03/29/ozempic-wegovy-weight-loss-diabetes-drug-cost/73125135007). USA Today.
+Mar 29: [Weight-loss drugs cost \$1,000 a month but less than $25 to make. Why do we pay so much?](https://eu.usatoday.com/story/news/health/2024/03/29/ozempic-wegovy-weight-loss-diabetes-drug-cost/73125135007). USA Today.
 
 Mar 29: [Ozempic costs just \$5 to make, a study said. The backlash was swift.](https://qz.com/ozempic-price-backlash-study-sanders-1851374290). Quartz.
 
@@ -136,18 +136,13 @@ Mar 28: [Study: ‘gamechanger’ diabetes drugs cost up to 400 times more than 
 
 Mar 28: [Sanders presses Novo Nordisk over Ozempic, Wegovy prices](https://www.washingtonpost.com/politics/2024/03/28/state-sanctioned-hospital-monopoly-raises-concerns). The Washington Post.
 
-Mar 28: [MSF’s costing study says newer diabetes drugs and insulin pens priced beyond patient reach](https://www.thehindubusinessline.com/companies/msf-costing-study-says-newer-diabetes-drugs-and-insulin-pens-priced-beyond-patient-reach/article67999181.ece). The Hindu.
+Mar 28: [MSF’s costing study says newer diabetes drugs and insulin pens priced beyond patient reach](https://www.thehindu$businessline.com/companies/msf-costing-study-says-newer-diabetes-drugs-and-insulin-pens-priced-beyond-patient-reach/article67999181.ece). The Hindu.
 
 Mar 28: [Bernie Sanders wants to make Ozempic cheaper](https://www.businessinsider.com/bernie-sanders-ozempic-cheaper-novo-nordisk-2024-3). Business Insider.
 
 Mar 28: [Bernie Sanders implores Novo to cut list prices of Ozempic, Wegovy](https://endpts.com/bernie-sanders-implores-novo-to-cut-list-prices-of-ozempic-wegovy). Endpoints News.
 
 Mar 28: [Costly Ozempic jab, which costs up to &#36;1,300, can be made for just &#36;5, study claims](https://nypost.com/2024/03/28/lifestyle/ozempic-which-costs-up-to-1300-can-be-made-for-5-study). New York Post.
-
-{% raw %}
-Mar 28: [Costly Ozempic jab, which costs up to $1,300, can be made for just $5, study claims](https://nypost.com/2024/03/28/lifestyle/ozempic-which-costs-up-to-1300-can-be-made-for-5-study). *New York Post.*
-{% endraw %}
-
 
 Mar 28: [High prices on GLP-1 meds, insulin pens raise barriers to access in lower-income countries: MSF](https://www.fiercepharma.com/pharma/high-markups-glp-1s-insulin-pens-present-barriers-access-lower-income-countries-report). Fierce Pharma.
 
