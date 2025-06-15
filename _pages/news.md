@@ -144,6 +144,11 @@ Mar 28: [Bernie Sanders implores Novo to cut list prices of Ozempic, Wegovy](htt
 
 Mar 28: [Costly Ozempic jab, which costs up to &#36;1,300, can be made for just &#36;5, study claims](https://nypost.com/2024/03/28/lifestyle/ozempic-which-costs-up-to-1300-can-be-made-for-5-study). New York Post.
 
+{% raw %}
+Mar 28: [Costly Ozempic jab, which costs up to $1,300, can be made for just $5, study claims](https://nypost.com/2024/03/28/lifestyle/ozempic-which-costs-up-to-1300-can-be-made-for-5-study). *New York Post.*
+{% endraw %}
+
+
 Mar 28: [High prices on GLP-1 meds, insulin pens raise barriers to access in lower-income countries: MSF](https://www.fiercepharma.com/pharma/high-markups-glp-1s-insulin-pens-present-barriers-access-lower-income-countries-report). Fierce Pharma.
 
 Mar 28: [Amerikanen betalen er bijna 1.000 euro per maand voor, maar afvalmiddel Ozempic kan “voor nog geen 5 dollar” gemaakt worden](https://www.hln.be/medisch/amerikanen-betalen-er-bijna-1-000-euro-per-maand-voor-maar-afvalmiddel-ozempic-kan-voor-nog-geen-5-dollar-gemaakt-worden~a14c2868). Het Laatste Nieuws (Belgium).
