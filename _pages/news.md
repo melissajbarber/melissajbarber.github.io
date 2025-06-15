@@ -124,7 +124,7 @@ Apr 1: [MSF study reveals global double standard in diabetes care](https://www.d
 
 Mar 29: [Research flags excessive 'profiteering' on diabetes drugs by sections of pharmaceutical industry](https://www.telegraphindia.com/health/research-flags-excessive-profiteering-on-diabetes-drugs-by-sections-of-pharmaceutical-industry/cid/2009774). The Telegraph India.
 
-Mar 29: [Weight-loss drugs cost \$1,000 a month but less than $25 to make. Why do we pay so much?](https://eu.usatoday.com/story/news/health/2024/03/29/ozempic-wegovy-weight-loss-diabetes-drug-cost/73125135007). USA Today.
+Mar 29: [Weight-loss drugs cost \$1,000 a month but less than 25 to make. Why do we pay so much?](https://eu.usatoday.com/story/news/health/2024/03/29/ozempic-wegovy-weight-loss-diabetes-drug-cost/73125135007). USA Today.
 
 Mar 29: [Ozempic costs just \$5 to make, a study said. The backlash was swift.](https://qz.com/ozempic-price-backlash-study-sanders-1851374290). Quartz.
 
@@ -142,7 +142,7 @@ Mar 28: [Bernie Sanders wants to make Ozempic cheaper](https://www.businessinsid
 
 Mar 28: [Bernie Sanders implores Novo to cut list prices of Ozempic, Wegovy](https://endpts.com/bernie-sanders-implores-novo-to-cut-list-prices-of-ozempic-wegovy). Endpoints News.
 
-Mar 28: [Costly Ozempic jab, which costs up to &#36;1,300, can be made for just &#36;5, study claims](https://nypost.com/2024/03/28/lifestyle/ozempic-which-costs-up-to-1300-can-be-made-for-5-study). New York Post.
+Mar 28: [Costly Ozempic jab, which costs up to \$1,300, can be made for just 5, study claims](https://nypost.com/2024/03/28/lifestyle/ozempic-which-costs-up-to-1300-can-be-made-for-5-study). New York Post.
 
 Mar 28: [High prices on GLP-1 meds, insulin pens raise barriers to access in lower-income countries: MSF](https://www.fiercepharma.com/pharma/high-markups-glp-1s-insulin-pens-present-barriers-access-lower-income-countries-report). Fierce Pharma.
 
@@ -162,9 +162,9 @@ Mar 27: [Weight-loss drug 'could be profitably made for as little as €4.40 a m
 
 Mar 27: [Sanders calls for Novo Nordisk to slash Ozempic, Wegovy prices](https://thehill.com/policy/healthcare/4560323-sanders-calls-for-novo-nordisk-slash-ozempic-wegovy-prices). The Hill.
 
-Mar 27: [Ozempic, Novo’s \$1,000 Diabetes Shot, Can Be Made for Under \$5 a Month](https://www.bloomberg.com/news/articles/2024-03-27/ozempic-novo-s-1-000-diabetes-drug-can-be-made-for-less-than-5-a-month). Bloomberg.
+Mar 27: [Ozempic, Novo’s \$1,000 Diabetes Shot, Can Be Made for Under 5 a Month](https://www.bloomberg.com/news/articles/2024-03-27/ozempic-novo-s-1-000-diabetes-drug-can-be-made-for-less-than-5-a-month). Bloomberg.
 
-Mar 27: [Ozempic, the \$1,000 diabetes drug, can be made for less than \$5 a month: study](https://ottawacitizen.com/health/ozempic-the-1000-diabetes-drug-can-be-made-for-less-than-5-a-month-study). Ottawa Citizen.
+Mar 27: [Ozempic, the \$1,000 diabetes drug, can be made for less than 5 a month: study](https://ottawacitizen.com/health/ozempic-the-1000-diabetes-drug-can-be-made-for-less-than-5-a-month-study). Ottawa Citizen.
 
 
 <div style="text-align: center;">
@@ -220,7 +220,7 @@ Oct 6: [Covid pill makers accused of selling drug to US at 40 times what it cost
 
 Oct 5: [Merck Sells Federally Financed Covid Pill to U.S. for 40 Times What It Costs to Make](https://theintercept.com/2021/10/05/covid-pill-drug-pricing-merck-ridgeback). The Intercept.
 
-Oct 4: [Indian Generic Companies Are Ready to Make Merck’s COVID-19 Antiviral Pill](https://www.fortuneindia.com/enterprise/why-mercks-new-covid-19-drug-banks-on-india-2/105949). Fortune India.
+Oct 4: [Why Merck’s Molnupiravir banks heavily on India](https://www.fortuneindia.com/enterprise/why-mercks-new-covid-19-drug-banks-on-india-2/105949). Fortune India.
 
 Oct 4: [Indian Generic Companies Are Ready to Make Merck’s COVID-19 Antiviral Pill](https://healthpolicy-watch.org/generic-companies-are-ready-to-make-mercks-covid-19-pill). Health Policy Watch.
 
