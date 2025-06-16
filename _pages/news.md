@@ -68,6 +68,8 @@ Feb 2: [Yale experts weigh in on U.S. WHO exit](https://yaledailynews.com/blog/2
 
 Jan 25: [People with spinal muscular atrophy demand urgent action from the Centre to reduce medicine costs](https://www.thehindu.com/sci-tech/health/experts-seek-affordable-access-to-medicines-for-treating-spinal-muscular-atrophy/article69072252.ece). The Hindu.
 
+Jan 24: [Centre abdicates its constitutional obligation, criticises patients and experts on SMA issue](https://www.pharmabiz.com/NewsDetails.aspx?aid=174918&sid=2). PharmaBiz.
+
 Jan 20: [A Rare Invocation for a Rare Disease?: Government Urged to Invoke Section 100, Patents Act for Rare Disease Medicine.](https://spicyip.com/2025/01/a-rare-invocation-for-a-rare-disease-government-urged-to-invoke-section-100-patents-act-for-rare-disease-medicine.html) SpicyIP 
 
 Jan 8: [Experts seek affordable access to medicines for treating Spinal Muscular Atrophy](https://www.thehindu.com/sci-tech/health/experts-seek-affordable-access-to-medicines-for-treating-spinal-muscular-atrophy/article69072252.ece). The Hindu.
