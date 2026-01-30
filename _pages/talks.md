@@ -11,6 +11,20 @@ nav_order: 4
 
 #### invited presentations, symposia, and workshops
 
+- Jan 2026: *Illuminating the Black Box: How Hospitals Can Lead the Way in Reshaping Pharma Markets for Public Health*. American Hospitals Association annual board meeting. Newport Beach, CA, USA.
+
+- Nov 2025: *Global health law and practice to improve access to medicines.* Guest lecturer in course taught by Christopher Morten, New York University. New York, USA.
+
+- Oct 2025: Rapporteur at the *Building Bridges for Medicines Justice conference.* The University of Amsterdam, Amsterdam, Netherlands.
+
+- Sept 2025: Discussant at book workshop of *The Social Life of Intellectual Property: Justice, Patents and Care.* London School of Economics, London, UK.
+
+- Jun 2025: *Roundtable on Intellectual Property and Industrial Policy in the Era of Trump Administration.* British Academy. London, UK.
+
+- June 2025: *Current Theory and Practice of Public Pharma.* University of Sheffield. Sheffield, UK.
+
+- June 2025: *Whose market failure is it anyway? Rethinking the economics of global pharmaceutical access.* Antwerp Institute of Tropical Medicine. Antwerp, Belgium.
+
 - Mar 2025: *Intellectual Property, Covid-19, and the Next Pandemic.* London School of Economics Law School. Discussant at book launch. London, UK.
 
 - Feb 2025: *The First Mile: Production Markets and Global Access to Medicines.* London School of Economics Health Policy. London, UK.
