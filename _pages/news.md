@@ -46,6 +46,8 @@ Oct 2021: [KNX In Depth (live LA current affairs radio show)](https://radiocut.f
     <h5>2025</h5>
 </div>
 
+Oct 9. [Chinese biotechs work on cheaper alternatives to $2M Zolgensma](https://endpoints.news/chinese-biotechs-work-on-cheaper-alternatives-to-2m-zolgensma/). Endpoints.
+
 Apr 17: [Patients of rare disease welcome prospect of dramatic slash in price of drug](https://timesofindia.indiatimes.com/india/patients-of-rare-disease-welcome-prospect-of-dramatic-slash-in-price-of-drug/articleshow/120382558.cms). The Times of India.
 
 Apr 16: [Pharma companies expected to absorb any tariff hit in short term](https://www.reuters.com/business/healthcare-pharmaceuticals/pharma-companies-expected-absorb-any-tariff-hit-short-term-2025-04-16/). Reuters.
