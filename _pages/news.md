@@ -11,6 +11,8 @@ nav_order: 6
 
 #### television, radio, and podcasts
 
+Jul 2026: [Exploring Access Barriers to Lenacapavir Created by Gilead's Voluntary License](https://makemedicinesaffordable.org/podcast/)
+
 Feb 2025: [Weight loss drugs may become harder to get. What does that mean for patients?](https://www.wbur.org/onpoint/2025/02/28/wegovy-ozempic-shortage-fda-compounding-pharmacy). WBUR [NPR station].
 
 Sept 2024: [Recap of Novo Nordisk Hearing](https://www.bbc.co.uk/sounds/play/w172zb92nd09p3s). BBC World Service.
@@ -41,6 +43,16 @@ Oct 2021: [KNX In Depth (live LA current affairs radio show)](https://radiocut.f
 ---
 
 #### print and online media
+<div style="text-align: center;">
+    <h5>2026</h5>
+</div>
+
+Jun 22. [Call for governments to push for broader access to game-changing HIV prevention drug](https://iol.co.za/pretoria-news/news/2026-06-22-call-for-governments-to-push-for-broader-access-to-game-changing-hiv-prevention-drug/). Pretoria News.
+
+Apr 30. [Gilead won’t sell MSF its HIV drug. Its shareholders should ask why.](https://www.doctorswithoutborders.org/latest/gilead-wont-sell-msf-its-hiv-drug-its-shareholders-should-ask-why). MSF.
+
+Apr 16. [Breakthrough HIV Drug Is Out Of Reach For Many Who Need It Most](https://www.forbes.com/sites/judystone/2026/04/16/breakthrough-hiv-drug-is-out-of-reach-for-many-who-need-it-most/)
+Apr 9. [This pharma company makes a miracle HIV drug, but is blocking access for millions of low-income people.](https://www.latimes.com/business/story/2026-04-09/this-rich-pharma-company-has-miracle-drug-for-hiv-why-is-it-refusing-to-license-it-worldwide) LA Times.
 
 <div style="text-align: center;">
     <h5>2025</h5>
@@ -202,8 +214,9 @@ May 25: [Behind Pfizer's new not-for-profit deal on patented vaccines and drugs]
 
 Apr 4: [African clinical trial denied access to key COVID drug Paxlovid](https://www.nature.com/articles/d41586-022-00919-5). Nature.
 
-Feb 28: [Paxlovid e Molnupiravir, pillola anti-Covid: il ricatto delle case farmaceutiche ai sistemi sanitari](https://www.corriere.it/dataroom-milena-gabanelli/paxlovid-molnupiravir-pillola-anti-covid-ricatto-case-farmaceutiche-sistemi-sanitari-tutti-guadagni/2fdb32ba-97d7-11ec-97aa-535db4de4386-va.shtml). Corriere della Sera.
+Mar 5: [Novo Nordisk slashes Wegovy price for patients lacking insurance benefits](https://www.washingtonpost.com/business/2025/03/05/novo-nordisk-wegovy-cash-discount/). Washington Post. 
 
+Feb 28: [Paxlovid e Molnupiravir, pillola anti-Covid: il ricatto delle case farmaceutiche ai sistemi sanitari](https://www.corriere.it/dataroom-milena-gabanelli/paxlovid-molnupiravir-pillola-anti-covid-ricatto-case-farmaceutiche-sistemi-sanitari-tutti-guadagni/2fdb32ba-97d7-11ec-97aa-535db4de4386-va.shtml). Corriere della Sera.
 
 
 <div style="text-align: center;">
