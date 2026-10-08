@@ -52,8 +52,9 @@ Jun 22. [Call for governments to push for broader access to game-changing HIV pr
 Apr 30. [Gilead won’t sell MSF its HIV drug. Its shareholders should ask why.](https://www.doctorswithoutborders.org/latest/gilead-wont-sell-msf-its-hiv-drug-its-shareholders-should-ask-why). MSF.
 
 Apr 16. [Breakthrough HIV Drug Is Out Of Reach For Many Who Need It Most](https://www.forbes.com/sites/judystone/2026/04/16/breakthrough-hiv-drug-is-out-of-reach-for-many-who-need-it-most/)
-Apr 9. [This pharma company makes a miracle HIV drug, but is blocking access for millions of low-income people.](https://www.latimes.com/business/story/2026-04-09/this-rich-pharma-company-has-miracle-drug-for-hiv-why-is-it-refusing-to-license-it-worldwide) LA Times.
+Apr 9. [This pharma company makes a miracle HIV drug, but is blocking access for millions of low-income people.](https://www.latimes.com/business/story/2026-04-09/this-rich-pharma-company-has-miracle-drug-for-hiv-why-is-it-refusing-to-license-it-worldwide). LA Times.
 
+Feb 11. [TrumpRx is here and it helps, though a bit less than advertised](https://fortune.com/2026/02/11/what-is-trumprx-will-it-make-drugs-cheaper-helps-only-a-little-health-insurance/). Fortune.
 <div style="text-align: center;">
     <h5>2025</h5>
 </div>
